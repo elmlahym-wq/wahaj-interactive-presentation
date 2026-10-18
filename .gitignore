@@ -1,0 +1,7 @@
+assets/*.mp4
+assets/*.ttf
+assets/*.jpg
+assets/*.png
+__pycache__/
+*.pyc
+.DS_Store

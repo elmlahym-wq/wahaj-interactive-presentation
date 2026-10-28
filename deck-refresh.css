@@ -1,5 +1,5 @@
 /* Wahaj: the original slide deck, with the new colour and type direction. */
-@font-face{font-family:Wahaj;src:url('assets/cairo.ttf') format('truetype');font-weight:200 1000;font-display:swap}
+@font-face{font-family:Wahaj;src:url('https://wahaj-team-presentation.peachypearl17.chatgpt.site/english/assets/cairo.ttf') format('truetype');font-weight:200 1000;font-display:swap}
 :root{--bg:#141310;--cream:#f7efdf;--gold:#ffc56a;--muted:#d7ccba;--surface:#24221c}
 body{font-family:Wahaj,Tahoma,Arial,sans-serif;background:var(--bg);color:var(--cream)}
 body[data-look="paper"]{--bg:#f7efdf;--cream:#141310;--gold:#755018;--muted:#5e5548;--surface:#e8dcc5}
